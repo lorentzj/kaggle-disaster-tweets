@@ -1,3 +1,6 @@
+# Source from BERTweet:
+# https://github.com/VinAIResearch/BERTweet/blob/0f6340f22730252e5131dc691feafcfdfae004bc/TweetNormalizer.py
+
 from emoji import demojize
 from nltk.tokenize import TweetTokenizer
 
